@@ -1,0 +1,2 @@
+# Face-Recognition-Attendance-System-Computer-Vision-Machine-Learning-Project
+ Face Recognition Attendance System using Python, OpenCV, and Machine Learning—a complete real-time AI project. 🎯  ✅ Capturing and preprocessing face images ✅ Training a Face Recognition model with OpenCV &amp; ML ✅ Real-time webcam detection and recognition ✅ Automatic attendance logging into a CSV/Excel file 
