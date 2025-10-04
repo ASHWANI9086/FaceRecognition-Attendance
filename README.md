@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital-Facial-Recognisation-Attendance-System
 
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/e5b58429-70fa-4230-8d5c-47fc37f210e5" />
@@ -46,3 +47,7 @@ Optional: Email/SMS APIs ✉️📱
 ✅ Ensures accuracy & prevents fraudulent attendance
 ✅ Provides real-time data & analytics 📈
 ✅ Scalable for institutions of any size 🌍
+=======
+# Face-Recognition-Attendance-System-Computer-Vision-Machine-Learning-Project
+ Face Recognition Attendance System using Python, OpenCV, and Machine Learning—a complete real-time AI project. 🎯  ✅ Capturing and preprocessing face images ✅ Training a Face Recognition model with OpenCV &amp; ML ✅ Real-time webcam detection and recognition ✅ Automatic attendance logging into a CSV/Excel file 
+>>>>>>> 4cf65b40ad2d3ef46f13910e3b22b3ffc86b08da
